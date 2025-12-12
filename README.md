@@ -1,5 +1,7 @@
 # 🔗 Tiny Link - URL Shortener
 
+https://url-shortener-main-1.onrender.com
+
 A full-stack MERN application for shortening URLs with user authentication, analytics, and QR code generation.
 
 ![Tiny Link Screenshot](./screenshots/screenshot.png)
