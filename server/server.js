@@ -39,7 +39,7 @@ const initializeServer = async () => {
     app.use(errorHandler);
 
     const server = app.listen(port, () => {
-      const local = `${protocol}://localhost:${port}`;
+      const local = `https://url-shortener-main-ukiz.onrender.com`;
       const network = `${protocol}://${getNetworkAddress()}:${port}`;
       console.log(`\x1b[32m✅ Server is running:\x1b[0m\n→ Local:    ${local}\n→ Network:  ${network}`);
     });
