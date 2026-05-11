@@ -1,4 +1,4 @@
-# 🔗 Tiny Link - URL Shortener
+# Tiny Link - URL Shortener
 
 https://url-shortener-main-1.onrender.com
 
@@ -6,7 +6,7 @@ A full-stack MERN application for shortening URLs with user authentication, anal
 
 ![Tiny Link Screenshot](./screenshots/screenshot.png)
 
-## ✨ Features
+## Features
 
 - **User Authentication**: Secure login/signup with JWT
 - **URL Shortening**: Generate short URLs with unique IDs or custom aliases
@@ -15,7 +15,7 @@ A full-stack MERN application for shortening URLs with user authentication, anal
 - **Social Sharing**: Share links on multiple platforms
 - **Responsive Design**: Works on all devices
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React, Tailwind CSS, Hero UI
 - **Backend**: Node.js, Express
